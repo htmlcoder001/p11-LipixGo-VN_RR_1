@@ -49,7 +49,7 @@
 }
 
 .footer-btn {
-    border-radius: 5px;
+    border-radius: 150px;
     padding: 12px 24px;
     font-size: 20px;
     text-decoration: none;
@@ -59,7 +59,7 @@
     color: #fff !important;
     cursor: pointer;
     display: block;
-    background-color: #df0000;
+    background-color: #980700;
     max-width: 480px;
     width: 100%;
     border: none;
